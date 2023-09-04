@@ -177,19 +177,10 @@ Our goal is to plot out the following:
 
 - Mean revenue by genre 
 
-- Average revenue 
+- Regions of rejection for t test hypothesis
 
  
 
-We had to categorize the months as seasons, and we did this as follows: 
-
-- Summer: June, July, August 
-
-- Fall: September, October, November 
-
-- Winter: December, January, February 
-
-- Spring: March, April, May 
 
   
 
