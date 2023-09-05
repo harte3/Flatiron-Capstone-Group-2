@@ -157,48 +157,34 @@ Based off of the above analysis and visualizations, we suggest making movies bet
 
 For our first business insight, we will be researching and exploring how genre affects domestic revenue. This is relevant as very costly resources are allocated to creating movies and it is important to understand what genres perform the best prior to making a decision as to what kind of movies Computing Vision will make. Let's start by looking at our movie data. 
 
-#### Hypothesis test: 
-
-We decided to delve further into the genre category and test our hypothesis that family genre movies do better than other genres, revenue wise. We posed this hypothesis with the reasoning that family movies reach a wider audience. 
-
- 
-
-##### Null Hypothesis: Family movies have a lower or equal average gross domestic revenue than the rest of movies 
-
-##### Alternate Hypothesis: Family movies have a significantly greater gross domestic revenue than the rest of movies 
-
  
 
 #### Analysis: 
 
-Our goal is to plot out the following: 
+Our goal is to visualize and analyze the following: 
 
 - Number of movies by genres 
 
 - Mean revenue by genre 
 
-- Regions of rejection for t test hypothesis
-
- 
+- Regions of rejection for t test hypothesis 
 
 
-  
+We can observe some saturation in the drama and action categories. So much of the data lays in these categories because of how many movies of this genre have been made in the past decade. This notion is going to contribute to our hypothesis test 
 
-#### Visualizations: 
+According to our bar plot, the genres with the greatest performing movies in terms of average gross domestic revenue are of the family, musical, fantasy, and adventure genres. It is to be noted that often times animation, family, and adventure movies are typically marketed towards and consumed by a wider group of people due to age appropriate ratings as opposed to horror, for example, which is often times rated PG-13 or R and cannot be seen by a large group of people. This notion will guide our hypothesis test that is later to come.
 
- 
 
-Our bar plot shows how many movies of each genre are represented in the dataset. We can observe some saturation in the drama and action categories. So much of the data lays in these categories because of how many movies of this genre have been made in the past decade. This notion is going to contribute to our hypothesis test 
 
- 
+#### Hypothesis Test
 
- 
+We decided to delve further into the genre category and test our hypothesis that family genre movies do better than other genres, revenue wise. We posed this hypothesis with the reasoning that family movies reach a wider audience. 
 
-According to our bar plot, the genres with the greatest performing movies in terms of average gross domestic revenue are of the family, musical, fantasy, and adventure genres. It is to be noted that often times action, family, and adventure movies are typically marketed towards and consumed by a wider group of people due to age appropriate ratings as opposed to horror, for example, which is often times rated PG-13 or R and cannot be seen by a large group of people. This notion will guide our hypothesis test that is later to come. Let's see what the top family movies are called! 
 
- 
+##### Null Hypothesis: Family movies have a lower or equal average gross domestic revenue than the rest of movies 
 
- 
+##### Alternate Hypothesis: Family movies have a significantly greater gross domestic revenue than the rest of movies 
+
 
 Our sample contains 20 observations, with a mean of 108128333.55 and a standard deviation of 71722959.9 with 19 degrees of freedom. The difference between the sample and population mean is 67254039.6. 
 
@@ -210,9 +196,11 @@ The p-value came out to 0.00024629, which is less than the alpha, therefore we m
 
 #### Conclusions:  
 
-We reject the null and conclude that family movies have a significantly greater gross domestic revenue than the rest of movies. 
+We reject the null hypothesis and conclude that family movies have a significantly greater gross domestic revenue than the rest of movies. 
 
- 
+We suggest that Computing Vision focuses on producing family genre movies and adjacent genres such as animation or adventure
+
+
 
 ## Overall Recommendations / Conclusions 
 
