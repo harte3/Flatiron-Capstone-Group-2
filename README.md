@@ -121,15 +121,15 @@ Our goal is to plot out the following:
 
 The Team categorized the runtimes in 30min intervals: 
 
-- A: 30 - 60 Minutes 
+- 30 - 60 Minutes 
 
-- B: 61 - 90 Minutes  
+- 61 - 90 Minutes  
 
-- C: 91 - 120 Minutes 
+- 91 - 120 Minutes 
 
-- D: 121 - 150 Minutes
+- 121 - 150 Minutes
 
-- E: 151 - 180 Minutes
+- 151 - 180 Minutes
 
  
 
@@ -137,17 +137,17 @@ The Team categorized the runtimes in 30min intervals:
 
  
 
-This scatterplot shows the 990 movies that grossed above the average 44 million dollars, correlated with their runtimes. 
+Scatterplot showing the 931 movies that grossed above the average 44 million dollars, correlated with their runtimes. 
 
  
 
-The bar chart shows the average domestic gross revenues, correlated with their runtimes in 30-minute increments. 
+The Bar chart shows the average domestic gross revenues, correlated with their runtimes in 30-minute increments. 
 
  
 
 #### Conclusions: 
 
-Based off of the above analysis and visualizations, we suggest making movies between 121 and 150 minutes in length to maximize profits. Taking into account the top 990 grossing movies that are between 30- and 180-minutes length. 
+Based off of the above analysis and visualizations, we suggest making movies between 151 and 180 minutes in length to maximize profits. Taking into account the top 931 grossing movies that are between 30 and 180-minutes length. 
 
  
 
@@ -220,7 +220,7 @@ For maximum success and potential revenue, the team recommends Computing Vision 
 
 - Family genre movies 
 
-- Movie Lengths between 121 –150 minutes 
+- Movie Lengths between 151 –180 minutes 
 
 - Releasing a movie in the Month of June 
 
